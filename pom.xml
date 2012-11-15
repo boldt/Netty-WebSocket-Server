@@ -4,8 +4,6 @@
 	<groupId>de.dennis_boldt</groupId>
 	<artifactId>WebSocketServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<localRepository>/path/to/local/repo</localRepository>
-
 	<build>
 		<plugins>
 			<plugin>
